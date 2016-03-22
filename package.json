@@ -25,7 +25,7 @@
     "expect": "^1.14.0",
     "lodash.fill": "^3.2.2",
     "mocha": "^2.4.5",
-    "npm-shrinkwrap": "^200.4.0",
+    "npm-shrinkwrap": "^200.5.0",
     "react": "^0.14.7"
   },
   "peerDependencies": {
